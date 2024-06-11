@@ -14,7 +14,6 @@ print(irish_dataset.target[1])
 logistic_reg = linear_model.LogisticRegression()
 
 
-
 x_train,x_test,y_train,y_test = model_selection.train_test_split(irish_dataset.data,irish_dataset.target,test_size=0.2)
 
 logistic_reg.fit(x_train,y_train)
