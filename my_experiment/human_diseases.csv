@@ -1,0 +1,11 @@
+Disease,Type,Symptoms,Causes
+Diabetes Mellitus,Metabolic,"Increased thirst, frequent urination, extreme hunger, fatigue, blurred vision","Genetic, lifestyle factors"
+Hypertension,Cardiovascular,"Often asymptomatic, headache, shortness of breath, nosebleeds","Genetic, high salt intake, obesity, lack of physical activity"
+Asthma,Respiratory,"Shortness of breath, chest tightness, wheezing, coughing","Genetic, environmental factors (allergens, pollution)"
+Osteoarthritis,Musculoskeletal,"Joint pain, stiffness, swelling, decreased range of motion","Age, joint injury, obesity, genetics"
+Alzheimer's Disease,Neurological,"Memory loss, confusion, difficulty in completing familiar tasks, mood changes","Age, genetics, environmental factors"
+Influenza,Infectious,"Fever, cough, sore throat, muscle aches, fatigue",Influenza virus
+Rheumatoid Arthritis,Autoimmune,"Joint pain, swelling, stiffness, fatigue","Genetic, immune system attack on joints"
+Hepatitis B,Infectious,"Jaundice, fatigue, abdominal pain, dark urine, nausea",Hepatitis B virus
+Chronic Obstructive Pulmonary Disease (COPD),Respiratory,"Shortness of breath, chronic cough, frequent respiratory infections","Smoking, long-term exposure to irritating gases or particulate matter"
+Depression,Mental Health,"Persistent sadness, loss of interest in activities, changes in appetite and sleep, fatigue","Genetic, environmental, psychological factors"
