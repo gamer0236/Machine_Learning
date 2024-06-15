@@ -7,7 +7,7 @@ datframe= pd.read_csv("homeprices (1).csv")
 
 le = LabelEncoder()
 le_dataframe = datframe
-le_dataframe.town = le.fit_transform(le_dataframe.town)
+le_dataframe.town = le.fit_transform(le_dataframe.town)                 
 print(le_dataframe)
 
 x_axis = le_dataframe[["town","area"]].values
